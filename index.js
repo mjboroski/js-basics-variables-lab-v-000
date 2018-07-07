@@ -1,3 +1,3 @@
 let companyName = 'Scuber';
 let mostProfitableNeighborhood = 'Chelsea';
-let companyName = 'Scuber';
+let companyCeo = 'Susan Smith';
